@@ -1,0 +1,109 @@
+body {
+  color:#1b262c;
+  margin: 0;
+  text-align: center;
+  font-family: 'Roboto Slab', serif;
+
+}
+
+h1 {
+  color: #11999E;
+
+  font-family: 'Dancing Script', cursive;
+  font-size: 5.625rem;
+    line-height: 2;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 2.5rem;
+  color: #11999E;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Open Sans', sans-serif;
+  color: #11999E;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+.intro{
+  width:30%;
+  margin:auto;
+}
+.skill-row{
+  width:50%;
+  margin:100px auto 100px auto;
+  text-align:left;
+  line-height: 2;
+  }
+  .data {
+    float:left;
+    margin-right: 30px;
+    border-radius: 25%;
+    background-color: #ecfbfc;
+}
+
+.film {
+float:right;
+margin-left: 30px;
+border-radius: 25%;
+background-color: #ecfbfc;
+}
+
+a{
+  color:#11999E;
+  font-family: 'Open Sans', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color:#eaf6f6;
+}
+
+.copyright{
+  font-family: 'Open Sans', sans-serif;
+  color: #eaf6f6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.top_container {
+  background-color: #8ac6d1;
+
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+
+  margin: 100px 0;
+}
+
+.bottom-container {
+  background-color: #8ac6d1;
+  padding: 50px 0 50px;
+
+}
+
+
+
+
+.top_cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom_cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 200px;
+}
